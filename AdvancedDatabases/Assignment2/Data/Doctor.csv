@@ -1,0 +1,43 @@
+﻿Firstname ;Lastname  ;Ssn ;DOB ;Phone ;Street_No ;Street_Name;City;Postcode;Salary ;Specialization 
+Monica;Guerrero;468477983;1970/9/7;3833313893;81431;Mark Canyon;West Kyle;NM 20459;260000;Pathologist
+Melissa;Zhang;022060702;1975/11/22;5939358179;151;Michael Views;Elizabethville;TX 82591;250000;Dermatologist
+Brittany;Smith;865971825;1995/7/2;4079841093;042;Jacqueline Village;Sandyshire;NE 24509;200000;Dermatologist
+Jamie;Lee;785929350;1995/6/19;7418324742;7754;Bradley Isle;West Andrewfurt;AR 16186;180000;Cardiologist
+Patricia;Fischer;371677413;1996/12/23;6806862217;1950;Ortiz Corner;Austinview;TX 32220;260000;Dermatologist
+Sharon;Maxwell;813818753;1995/7/1;1157824970;7975;Melissa Radial;Thompsontown;VI 43430;260000;Cardiologist
+Linda;Livingston;283512320;1981/11/21;0012705996;987;Troy Ports;Sheppardville;KS 36715;260000;Anesthesiologist
+Heather;Robinson;711686527;1981/9/21;5391863466;65247;Hamilton Corners;Lake Erica;MS 75435;220000;Cardiologist
+Erica;House;838191225;1997/5/28;1899724969;432;Mark Canyon;West Kyle;NM 20459;220000;Cardiologist
+Jennifer;Austin;392402189;1981/12/26;8802997242;67;Michael Views;Elizabethville;TX 82591;230000;Dermatologist
+Danielle;Williams;476919249;1981/1/13;0819619084;089;Jacqueline Village;Sandyshire;NE 24509;190000;Cardiologist
+Rebecca;Hill;322941111;1983/7/19;4094947887;5892;Bradley Isle;West Andrewfurt;AR 16186;200000;Anesthesiologist
+Jessica;Kramer;452796654;1983/7/19;0016182069;786;Ortiz Corner;Austinview;TX 32220;180000;Anesthesiologist
+Adrienne;Hobbs;420327362;1981/5/4;1674642171;437;Melissa Radial;Thompsontown;VI 43430;260000;General_Surgeon
+Anna;Yang;303333797;1973/9/4;1753459141;34;Troy Ports;Sheppardville;KS 36715;250000;Pulmonologist
+Lauren;Swanson;700938748;1987/1/12;4295228965;4908;Hamilton Corners;Lake Erica;MS 75435;240000;Anesthesiologist
+Tiffany;King;114081411;1987/1/13;5297743933;56;Melissa Radial;Thompsontown;VI 43430;200000;Anesthesiologist
+Jennifer;Rose;164203528;1977/11/27;6400117421;367;Troy Ports;Sheppardville;KS 36715;190000;Cardiologist
+Douglas;Smith;418481555;1974/1/13;1621216107;7127;Hamilton Corners;Lake Erica;MS 75435;240000;Anesthesiologist
+Jay;White;440154834;1984/1/10;6553386414;546;Ortiz Corner;Austinview;TX 32220;190000;Pulmonologist
+Robert;Hall;788051339;1979/6/9;8134282218;83;Melissa Radial;Thompsontown;VI 43430;190000;General_Surgeon
+Bryan;Cox;730308809;1989/2/9;3784281485;30;Troy Ports;Sheppardville;KS 36715;210000;Anesthesiologist
+Sean;Nguyen;390463079;1970/5/11;6252305992;5902;Hamilton Corners;Lake Erica;MS 75435;260000;Orthopedic_Surgeon
+Sean;Rodgers;506440594;1989/5/5;0015029210;480;Melissa Radial;Thompsontown;VI 43430;260000;Oncologist
+Cory;Owens;064497470;1983/1/25;2913501046;12;Troy Ports;Sheppardville;KS 36715;210000;Oncologist
+Mark;Pena;663339932;1986/6/6;0013305852;2;Hamilton Corners;Lake Erica;MS 75435;250000;Cardiologist
+Gary;Martinez;730915506;1986/9/27;3896575634;9572;Dixon Flat;Lake Emily;NY 75038;180000;Radiologist
+Troy;Clark;546581308;1975/9/10;1293973484;910;Vargas Village;Davidstad;CT 37345;210000;General_Surgeon
+Michael;Taylor;084090129;1986/5/31;7726621196;478;Vargas Village;Davidstad;CT 37345;180000;Pathologist
+Jonathan;Poole;254157981;1975/12/27;3547702667;389;Vargas Village;Davidstad;CT 37345;250000;Dermatologist
+John;Rogers;284904122;1986/8/17;0012524004;769;Vargas Village;Davidstad;CT 37345;260000;Dermatologist
+Todd;Montgomery;061231456;1987/7/1;0012986004;793;Boone Mills;North Nicole;CT 09863;180000;Oncologist
+David;Tyler;608450055;1979/1/7;0800549194;044;Vargas Village;Davidstad;CT 37345;260000;Pulmonologist
+Richard;Reed;815913709;1979/9/15;0767415603;46596;Nicole Rest;East Josephport;HI 27385;240000;General_Surgeon
+Gregory;Brown;156541916;1979/2/28;1707946547;560;Denise Burg;West Carlosville;MD 75157;250000;Cardiologist
+David;Trujillo;843562253;1981/3/12;1183828493;11;Denise Burg;West Carlosville;MD 75157;220000;Cardiologist
+Michael;Stephens;263063407;1989/8/7;6868621629;590;Ryan Path;Robertburgh;VT 14573;250000;Anesthesiologist
+Kevin;Pope;789543904;1979/9/12;2351322240;312;Ryan Path;Robertburgh;VT 14573;240000;Radiologist
+Andre;Peterson;079891774;1993/3/14;1576396566;430;Denise Burg;West Carlosville;MD 75157;180000;Orthopedic_Surgeon
+George;Johns;306217376;1979/11/2;0010366218;7575;Gina Stream;South Timothystad;WA 95775;200000;Orthopedic_Surgeon
+David;Johnson;374720467;1987/2/8;3651357891;74593;Boone Mills;North Nicole;CT 09863;230000;Anesthesiologist
+Steve;Freeman;141081210;1979/8/10;6472568774;52918;Ryan Path;Robertburgh;VT 14573;180000;Neurologist

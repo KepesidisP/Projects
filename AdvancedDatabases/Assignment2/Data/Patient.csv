@@ -1,0 +1,74 @@
+﻿Firstname ;Lastname  ;Ssn ;DOB ;Phone ;Street_No ;Street_Number;City;Postcode;Sex ;Diagnosis ;admitDate;R_num;C_code
+Julia;Harper;861521232;1973/9/12;1277876392;318;Joseph Camp;Mackfurt;UT 47602;Female;Appendicitis;2022/1/10;PA01;PTH323
+Alexandra;Wyatt;296754137;1984/6/15;16898248;3211;Alexander Knolls;Coryview;HI 38860;Female;Stomach_Ulcer;2022/11/7;PA02;PTH323
+Wendy;Gonzalez;268923873;2001/4/1;6753781425;900;Crawford Corner;Briannaside;ID 41013;Female;Angina;2022/11/12;PA03;PTH323
+Amy;Benitez;224069684;2000/10/12;10473380;56999;Jordan Rue;Riosside;IL 37984;Female;Broken_Finger;2022/11/13;PA04;PTH323
+Sarah;Kelly;426074184;2000/3/19;9624165604;887;Michael Hills;New Andrewport;NV 25821;Female;Chest_Pain;2022/4/13;PA05;PTH323
+Morgan;Chase;428036451;2000/7/31;3301687084;633;Doyle Streets;Baileystad;FM 25031;Female;Concussion;2022/1/17;PA06;PTH323
+Carol;Chan;027916501;1970/12/16;3301687549;20734;Anthony Mount;Johnsonton;NM 23691;Female;Broken_Limb;2022/10/21;PA07;PTH323
+Denise;Jones;460636452;1972/1/9;725521106;140;Jeremy Wells;Garzastad;UT 55163;Female;Infection;2022/4/7;PA08;PTH323
+Stephanie;Meyer;113796252;1978/3/24;1528658135;7537;Meredith Crossing;North Patrickchester;UT 54460;Female;Infection;2022/5/26;PA09;PTH323
+Lisa;Schroeder;081485586;1979/10/4;16308699;43;Mark Meadow;West Jennifertown;TX 43509;Female;Head_Injury;2022/3/12;PA10;PTH323
+Joanna;Lyons;260097213;1991/1/5;14408585;748;Joseph Camp;Mackfurt;UT 47602;Female;Appendicitis;2022/9/15;IC01;INT453
+Julie;Robinson;654270643;2000/3/1;16067564;92;Alexander Knolls;Coryview;HI 38860;Female;Stomach_Ulcer;2022/7/29;IC02;INT453
+Samantha;Taylor;051944443;1971/6/20;1373482145;749;Crawford Corner;Briannaside;ID 41013;Female;Angina;2022/6/24;CA01;CRD313
+Brenda;King;721413723;2002/11/23;13558024;89;Jordan Rue;Riosside;IL 37984;Female;Broken_Finger;2022/2/20;CA02;CRD313
+Erika;Baker;555817722;1996/4/23;1511574871;67;Michael Hills;New Andrewport;NV 25821;Female;Chest_Pain;2022/7/19;CA03;CRD313
+Cynthia;Shaw;425952917;1990/3/22;15749108;92;Doyle Streets;Baileystad;FM 25031;Female;Concussion;2022/5/26;CA04;CRD313
+Shannon;Lindsey;224252042;2001/3/27;3043809252;492;Anthony Mount;Johnsonton;NM 23691;Female;Colon_Cancer;2022/2/9;CA05;CRD313
+Rebecca;Dennis;534020005;2001/8/25;7145223268;9375;Jeremy Wells;Garzastad;UT 55163;Female;Broken_Limb;2022/4/11;CA06;CRD313
+Vickie;Lopez;289752825;1995/1/24;4515166553;8792;Meredith Crossing;North Patrickchester;UT 54460;Female;Infection;2022/9/21;CA07;CRD313
+Susan;Tran;688571614;1985/1/22;10245595;6792;Mark Meadow;West Jennifertown;TX 43509;Female;Infection;2022/12/5;DE01;DRM183
+Jennifer;Martin;428963713;2002/1/20;3812236340;737;Joseph Camp;Mackfurt;UT 47602;Female;Stomach_Ulcer;2022/10/5;DE02;DRM183
+Stacy;Powers;498835265;1972/4/6;1612377630;3875;Alexander Knolls;Coryview;HI 38860;Female;Angina;2022/4/6;DE03;DRM183
+Madeline;Lee;535985554;1976/1/9;9454892379;672;Crawford Corner;Briannaside;ID 41013;Female;Broken_Finger;2022/6/1;NE04;NRL293
+Stephanie;Patel;475067732;2003/4/24;5625722362;333;Jordan Rue;Riosside;IL 37984;Female;Chest_Pain;2022/7/17;NE05;NRL293
+Erin;Vazquez;687218686;1987/9/11;5293254042;730;Michael Hills;New Andrewport;NV 25821;Female;Concussion;2022/3/7;NE06;NRL293
+Gina;Hutchinson;774395116;1979/12/31;1657633790;55;Doyle Streets;Baileystad;FM 25031;Female;Colon_Cancer;2022/12/12;NE07;NRL293
+Tracy;Jackson;745053636;2001/6/10;913157601;982;Anthony Mount;Johnsonton;NM 23691;Female;Broken_Limb;2022/6/1;NE08;NRL293
+Frank;Alvarado;835761559;1990/2/7;1251782551;611;Jeremy Wells;Garzastad;UT 55163;Male;Infection;2022/12/18;PA01;PTH323
+Martin;Lopez;735993394;2001/9/4;18011838;987;Meredith Crossing;North Patrickchester;UT 54460;Male;Broken_Finger;2022/6/10;PA02;PTH323
+Mario;Young;790747305;2001/9/18;8669299028;779;Mark Meadow;West Jennifertown;TX 43509;Male;Chest_Pain;2022/12/1;PA03;PTH323
+Brandon;Johnson;704167401;2000/4/27;1903242389;3678;Joseph Camp;Mackfurt;UT 47602;Male;Concussion;2022/9/16;PA04;PTH323
+Harry;Logan;283625766;1985/3/2;1610942492;4782;Alexander Knolls;Coryview;HI 38860;Male;Broken_Limb;2022/3/14;PA05;PTH323
+Mark;Marshall;847204494;1966/5/20;2701731275;229;Crawford Corner;Briannaside;ID 41013;Male;Lung_Cancer;2022/9/16;PA06;PTH323
+Benjamin;Rodriguez;787149284;1979/12/21;5181820678;195;Jordan Rue;Riosside;IL 37984;Male;Lung_Cancer;2022/8/10;PA07;PTH323
+Tyler;Navarro;753057701;1991/12/26;9531394279;637;Michael Hills;New Andrewport;NV 25821;Male;Appendicitis;2022/2/16;PA08;PTH323
+Joshua;Cortez;898565199;1986/11/26;1865497989;9489;Doyle Streets;Baileystad;FM 25031;Male;Stomach_Ulcer;2022/6/17;PA09;PTH323
+Donald;Johnson;136695955;1990/3/11;1745408350;356;Anthony Mount;Johnsonton;NM 23691;Male;Angina;2022/9/2;PA10;PTH323
+Scott;Goodwin;789152606;1971/3/4;3918804830;9389;Jeremy Wells;Garzastad;UT 55163;Male;Broken_Finger;2022/6/11;IC01;INT453
+Tracy;Camacho;757590333;2000/5/8;12733945;7483;Meredith Crossing;North Patrickchester;UT 54460;Male;Chest_Pain;2022/6/2;IC02;INT453
+Sean;Arnold;725755360;1977/10/23;9739291611;476;Mark Meadow;West Jennifertown;TX 43509;Male;Concussion;2022/10/11;CA01;CRD313
+Andrew;Powell;156592949;1977/9/14;6630357948;481;Joseph Camp;Mackfurt;UT 47602;Male;Broken_Limb;2022/3/18;CA02;CRD313
+Stephen;Gordon;363877790;1977/2/9;1071859597;5468;Alexander Knolls;Coryview;HI 38860;Male;Infection;2022/9/2;CA03;CRD313
+Kristopher;Rhodes;252915201;1977/7/18;7252323476;223;Crawford Corner;Briannaside;ID 41013;Male;Infection;2022/6/12;CA04;CRD313
+Jason;White;493659015;1974/3/24;8910229940;6739;Jordan Rue;Riosside;IL 37984;Male;Head_Injury;2022/11/22;CA05;CRD313
+Stephen;Jones;305759918;1979/2/19;9283840138;44;Michael Hills;New Andrewport;NV 25821;Male;Appendicitis;2022/5/24;CA06;CRD313
+Kenneth;Edwards;152454669;1991/1/24;1752081861;50;Doyle Streets;Baileystad;FM 25031;Male;Stomach_Ulcer;2022/2/6;CA07;CRD313
+Donald;Washington;832689076;1993/7/22;3589667188;62;Anthony Mount;Johnsonton;NM 23691;Male;Angina;2022/7/20;DE01;DRM183
+Ray;Ewing;630320392;1965/6/19;5928158142;892;Jeremy Wells;Garzastad;UT 55163;Male;Broken_Finger;2022/9/16;DE02;DRM183
+Micheal;Thompson;644115169;1965/11/2;5387638824;890;Meredith Crossing;North Patrickchester;UT 54460;Male;Chest_Pain;2022/1/25;DE03;DRM183
+Kevin;Luna;183825559;1990/11/13;6411538482;135;Mark Meadow;West Jennifertown;TX 43509;Male;Concussion;2022/6/4;NE04;NRL293
+Jason;Lam;032222707;1965/11/15;7474670867;8379;Joseph Camp;Mackfurt;UT 47602;Male;Colon_Cancer;2022/11/11;NE05;NRL293
+Michael;Garza;765533333;1956/8/21;6148431206;4783;Alexander Knolls;Coryview;HI 38860;Male;Broken_Limb;2022/2/23;NE06;NRL293
+Ian;Page;406089787;1948/12/5;1366358871;773;Crawford Corner;Briannaside;ID 41013;Male;Infection;2022/6/7;NE07;NRL293
+Daryl;Hays;180495618;1967/10/13;1960259258;984;Jordan Rue;Riosside;IL 37984;Male;Infection;2022/3/23;NE08;NRL293
+Ariel;Salazar;195983010;1975/2/4;1714045075;731;Michael Hills;New Andrewport;NV 25821;Female;Infection;2022/8/16;OR01;ORT173
+Denise;Johnson;729821006;1954/8/28;8930161135;401;Doyle Streets;Baileystad;FM 25031;Female;Infection;2022/4/16;OR02;ORT173
+Jennifer;Cox;774362876;1965/6/27;4516117791;110;Anthony Mount;Johnsonton;NM 23691;Female;Head_Injury;2022/5/11;OR03;ORT173
+Kevin;Gonzalez;528468942;1965/8/3;2449325136;7493;Jeremy Wells;Garzastad;UT 55163;Male;Appendicitis;2022/4/2;OR04;ORT173
+Tammy;Baker;452508953;1981/12/2;3475288004;450;Meredith Crossing;North Patrickchester;UT 54460;Female;Stomach_Ulcer;2022/10/22;OR01;ORT173
+Brandi;Johnson;593559978;1965/7/8;18952064;133;Mark Meadow;West Jennifertown;TX 43509;Female;Angina;2022/12/20;OR02;ORT173
+Amy;Wheeler;425603627;1967/9/1;1405904244;9801;Joseph Camp;Mackfurt;UT 47602;Female;Broken_Finger;2022/5/23;OR03;ORT173
+Whitney;Martin;444181744;1970/12/30;3347642106;4562;Alexander Knolls;Coryview;HI 38860;Female;Chest_Pain;2022/6/5;OR04;ORT173
+Kenneth;Nguyen;354289530;1977/3/30;1706522400;6480;Crawford Corner;Briannaside;ID 41013;Male;Concussion;2022/3/14;PU01;PLM333
+Brian;Perkins;869364467;1949/4/4;4283147603;1796;Jordan Rue;Riosside;IL 37984;Male;Colon_Cancer;2022/4/11;PU02;PLM333
+Luis;Pugh;870780874;1965/12/31;7592696093;3901;Michael Hills;New Andrewport;NV 25821;Male;Broken_Limb;2022/5/12;PU03;PLM333
+Timothy;Marshall;586665620;1995/4/25;7806048114;6491;Doyle Streets;Baileystad;FM 25031;Male;Infection;2022/4/1;PU01;PLM333
+Sheila;Smith;861375287;1965/5/22;5243628205;634;Anthony Mount;Johnsonton;NM 23691;Female;Infection;2022/9/16;PU02;PLM333
+Amber;Martin;169668810;1965/4/20;4590940048;66;Jeremy Wells;Garzastad;UT 55163;Female;Pericarditis;2022/1/30;PU03;PLM333
+Steven;Sanchez;860991970;1973/7/22;10111423;9217;Meredith Crossing;North Patrickchester;UT 54460;Male;Pericarditis;2022/11/13;PC01;PRM063
+David;White;268227876;1975/2/9;16186978;902;Mark Meadow;West Jennifertown;TX 43509;Male;Pericarditis;2022/1/25;PC02;PRM063
+Nicholas;Cooley;464969151;1985/8/24;7525062360;386;Garza Pike;New Gina;WV 27035;Male;Head_Injury;2022/9/1;PC01;PRM063
+Anthony;Smith;461027763;1991/8/15;1490666686;7636;Liu Corner;Allenfort;FM 81851;Male;Appendicitis;2022/8/26;PC02;PRM063
+Jeff;Shannon;671285705;1978/12/8;842288346;610;Benton Plaza;Port Kathryn;GA 21204;Male;Stomach_Ulcer;2022/5/2;RA01;RDL443
